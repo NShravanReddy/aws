@@ -6,3 +6,4 @@ for i in n:
     if i==mi:
         n.remove(i)
 print(sum(n)//len(n))
+#
